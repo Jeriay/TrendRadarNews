@@ -29,19 +29,10 @@ AMD
 谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
 sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -52,7 +43,7 @@ ai
 机器人
 
 中国
-@6
+@5
 
 美国
 日本
